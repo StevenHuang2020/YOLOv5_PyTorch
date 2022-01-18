@@ -1,4 +1,4 @@
-## Yolov5 PyTorch
+## YOLOv5 PyTorch
 Use the pre-trained [YOLOv5](https://github.com/ultralytics/yolov5) directly for your object detection applications.
 
 ### Usage:
@@ -18,5 +18,4 @@ Use Yolov5 for object detection on your camera. </br>
 ```$ python camera_show.py```
 
 ### Sceenshots
-<img src="src/images/zidane.jpg" width="80%" height="80%">
-<img src="src/images/zidane_out.jpg" width="80%" height="80%">
+<img src="src/images/bus.jpg" width="40%" height="40%"><img src="src/images/bus_out.jpg" width="40%" height="40%">
